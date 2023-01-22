@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Casinoverwaltung
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Casinoverwaltung\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=casinoseite
+comment1.target=Casinoverwaltung(CasinoSeite)
+comment2.params=differenz
+comment2.target=void\ aendereGeldbetrag(int)
+comment3.params=
+comment3.target=int\ getGeldbetrag()
+numComments=4

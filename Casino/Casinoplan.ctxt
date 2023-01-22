@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Casinoplan
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Casinoplan\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=casinoverwaltung\ casinoseite\ rouletteseite\ goldene6seite\ slotsseite\ schwarzerpeterseite\ kontostandseite\ roulette\ goldene6\ slots\ schwarzerpeter\ startseite\ kontostand\ knopf10euro\ knopf20euro\ knopf50euro\ knopf100euro
+comment1.target=Casinoplan(Casinoverwaltung,\ CasinoSeite,\ RouletteSeite,\ Goldene6Seite,\ SlotsSeite,\ SchwarzerPeterSeite,\ KontostandSeite,\ SpielKnopf,\ SpielKnopf,\ SpielKnopf,\ SpielKnopf,\ SpielKnopf,\ SpielKnopf,\ SpielKnopf,\ SpielKnopf,\ SpielKnopf,\ SpielKnopf)
+comment2.params=
+comment2.target=void\ aendereGeldbetrag()
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SchwarzerPeterSeite
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SchwarzerPeterSeite\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=casinoverwaltung
+comment1.target=SchwarzerPeterSeite(Casinoverwaltung)
+comment2.params=
+comment2.target=void\ spielaufbau()
+comment3.params=
+comment3.target=void\ deckanfertigung()
+comment4.params=
+comment4.target=void\ hit()
+comment5.params=
+comment5.target=void\ zahlenwertaktualisieren()
+comment6.params=
+comment6.target=void\ stay()
+numComments=7
